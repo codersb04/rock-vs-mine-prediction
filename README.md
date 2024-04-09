@@ -8,7 +8,7 @@ The steps involved in creating the model are:</br>
 <b> Importing the Libraries: </b><br/>
 Libraries needed for running the projects are NumPy, pandas, and sklearn and from sklearn, we import Logistic Regression and accuracy score</br>
 <b> Data Collection and Data Processing:</b><br/>
-We can import the dataset you read_csv function of pandas. We can make use of functions such as describe, shape, value_counts, groupby etc. to know more about the type and content of our datasets.</br>
+We can import the dataset using read_csv function of pandas. We can make use of functions such as describe, shape, value_counts, groupby etc. to know more about the type and content of our datasets.</br>
 <b> Dividing the dataset as training and testing dataset:</b><br/>
 The first step to this would be separating the target feature from the dataset i.e the feature which depicts whether the element is rock(R) or mine(M)<br/>
 Next, we will split the 2 sets of datasets into training and testing using <b> train_test_split</b> function.</br>
